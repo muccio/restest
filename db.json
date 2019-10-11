@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "luogo": "altare patria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.482893466949461,
+          41.8948502691346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "luogo": "spagna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.482507228851318,
+          41.90567869317446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "luogo": "circo massimo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.485661506652832,
+          41.88590505343154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "luogo": "piramide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4814772605896,
+          41.87686272331337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "luogo": "muccios"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.480168342590332,
+          41.87387495847396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "luogo": "colosseo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.492270469665527,
+          41.89032989704626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "luogo": "lucas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.480964958667755,
+          41.896515378576794
+        ]
+      }
+    }
+  ]
+}
