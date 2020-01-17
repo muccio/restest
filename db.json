@@ -2,8 +2,7 @@
 	"luoghi": [
 		{
 			"luogo": "altare patria",
-			"coordinates": [12.482893466949461,41.8948502691346],
-			"beacon": ["01234567-89AB-CDEF-0123-456789ABCDEF","10","6"]
+			"coordinates": [12.482893466949461,41.8948502691346]
 		},
 		{
 			"luogo": "spagna",
@@ -19,7 +18,8 @@
 		},
 		{
 			"luogo": "muccios",
-			"coordinates": [12.480168342590332,41.87387495847396]
+			"coordinates": [12.480168342590332,41.87387495847396],
+			"beacon": ["01234567-89AB-CDEF-0123-456789ABCDEF","10","6"]
 		},
 		{
 			"luogo": "colosseo",
