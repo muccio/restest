@@ -2,7 +2,8 @@
 	"luoghi": [
 		{
 			"luogo": "altare patria",
-			"coordinates": [12.482893466949461,41.8948502691346]
+			"coordinates": [12.482893466949461,41.8948502691346],
+			"beacon": ["01234567-89AB-CDEF-0123-456789ABCDEF","10","6"]
 		},
 		{
 			"luogo": "spagna",
