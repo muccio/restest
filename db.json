@@ -70,6 +70,7 @@
 		{
 			"Nome":	"Cucina casa",
 			"Descrizione":"La cucina",
+			"Abstract":"Dove si cucina",
 			"Tipologia":	"Santuario",
 			"Tema/Tag":	"Amatriciana, luoghi di francesco; natura; miracoli;",
 			"beacon": ["01234567-89AB-CDEF-0123-456789ABCDEF","10","6"],
