@@ -2,32 +2,80 @@
 	"luoghi": [
 		{
 			"luogo": "altare patria",
-			"coordinates": [12.482893466949461,41.8948502691346]
+			"coordinates": [12.482893466949461,41.8948502691346],
+			"Nome":	"Altare della Patria",
+			"Abstract": "Immerso nel verde nella conca reatina il convento � un ottimo punto di partenza per escursioni e trekking e per i cicloturisti. Di rilievo, ai fini dell�attrattivit� turistica � anche la vicinanza del paese natio di Lucio Battisti che rappresenta",
+			"Descrizione":"Il santuario e convento di Poggio Bustone, dedicato a San Giacomo, si trova a Poggio Bustone ed � uno dei quattro santuari francescani che delimitano il Cammino di Francesco nella Valle Santa reatina, insieme al convento di Greccio, al santuario della",
+			"Tipologia":	"santuario",
+			"Tema/Tag":	"Spituralit�, luoghi di francesco; natura; miracoli;",
+			"Fonte":	"Ligori, Goffredo Antonio Santuario di Poggio Bustone : luogo del perdono (2000) . Cianetti, Enea, La valle Santa francescana : Rieti, il terminillo, fonte Colombo, la foresta, greccio, Poggio Bustone (1953) - Biblioteca na"
 		},
 		{
 			"luogo": "spagna",
-			"coordinates": [12.482507228851318,41.90567869317446]
+			"coordinates": [12.482507228851318,41.90567869317446],
+			"Nome":	"Spagna",
+			"Abstract": "Immerso nel verde nella conca reatina il convento � un ottimo punto di partenza per escursioni e trekking e per i cicloturisti. Di rilievo, ai fini dell�attrattivit� turistica � anche la vicinanza del paese natio di Lucio Battisti che rappresenta",
+			"Descrizione":"Il santuario e convento di Poggio Bustone, dedicato a San Giacomo, si trova a Poggio Bustone ed � uno dei quattro santuari francescani che delimitano il Cammino di Francesco nella Valle Santa reatina, insieme al convento di Greccio, al santuario della",
+			"Tipologia":	"santuario",
+			"Tema/Tag":	"Spituralit�, luoghi di francesco; natura; miracoli;",
+			"Fonte":	"Ligori, Goffredo Antonio Santuario di Poggio Bustone : luogo del perdono (2000) . Cianetti, Enea, La valle Santa francescana : Rieti, il terminillo, fonte Colombo, la foresta, greccio, Poggio Bustone (1953) - Biblioteca na"
+		
 		},
 		{
 			"luogo": "circo massimo",
-			"coordinates": [12.485661506652832,41.88590505343154]
+			"coordinates": [12.485661506652832,41.88590505343154],
+			"Nome":	"Circo Massimo",
+			"Abstract": "Immerso nel verde nella conca reatina il convento � un ottimo punto di partenza per escursioni e trekking e per i cicloturisti. Di rilievo, ai fini dell�attrattivit� turistica � anche la vicinanza del paese natio di Lucio Battisti che rappresenta",
+			"Descrizione":"Il santuario e convento di Poggio Bustone, dedicato a San Giacomo, si trova a Poggio Bustone ed � uno dei quattro santuari francescani che delimitano il Cammino di Francesco nella Valle Santa reatina, insieme al convento di Greccio, al santuario della",
+			"Tipologia":	"santuario",
+			"Tema/Tag":	"Spituralit�, luoghi di francesco; natura; miracoli;",
+			"Fonte":	"Ligori, Goffredo Antonio Santuario di Poggio Bustone : luogo del perdono (2000) . Cianetti, Enea, La valle Santa francescana : Rieti, il terminillo, fonte Colombo, la foresta, greccio, Poggio Bustone (1953) - Biblioteca na"
+		
 		},
 		{
 			"luogo": "piramide",
-			"coordinates": [12.4814772605896,41.87686272331337]
+			"coordinates": [12.4814772605896,41.87686272331337],
+			"Nome":	"Piramide",
+			"Abstract": "Immerso nel verde nella conca reatina il convento � un ottimo punto di partenza per escursioni e trekking e per i cicloturisti. Di rilievo, ai fini dell�attrattivit� turistica � anche la vicinanza del paese natio di Lucio Battisti che rappresenta",
+			"Descrizione":"Il santuario e convento di Poggio Bustone, dedicato a San Giacomo, si trova a Poggio Bustone ed � uno dei quattro santuari francescani che delimitano il Cammino di Francesco nella Valle Santa reatina, insieme al convento di Greccio, al santuario della",
+			"Tipologia":	"santuario",
+			"Tema/Tag":	"Spituralit�, luoghi di francesco; natura; miracoli;",
+			"Fonte":	"Ligori, Goffredo Antonio Santuario di Poggio Bustone : luogo del perdono (2000) . Cianetti, Enea, La valle Santa francescana : Rieti, il terminillo, fonte Colombo, la foresta, greccio, Poggio Bustone (1953) - Biblioteca na"
+		
 		},
 		{
 			"luogo": "muccios",
 			"coordinates": [12.480168342590332,41.87387495847396],
-			"beacon": ["01234567-89AB-CDEF-0123-456789ABCDEF","10","6"]
+			"beacon": ["01234567-89AB-CDEF-0123-456789ABCDEF","10","6"],
+			"Nome":	"Mariuccios",
+			"Abstract": "Immerso nel verde nella conca reatina il convento � un ottimo punto di partenza per escursioni e trekking e per i cicloturisti. Di rilievo, ai fini dell�attrattivit� turistica � anche la vicinanza del paese natio di Lucio Battisti che rappresenta",
+			"Descrizione":"Il santuario e convento di Poggio Bustone, dedicato a San Giacomo, si trova a Poggio Bustone ed � uno dei quattro santuari francescani che delimitano il Cammino di Francesco nella Valle Santa reatina, insieme al convento di Greccio, al santuario della",
+			"Tipologia":	"santuario",
+			"Tema/Tag":	"Spituralit�, luoghi di francesco; natura; miracoli;",
+			"Fonte":	"Ligori, Goffredo Antonio Santuario di Poggio Bustone : luogo del perdono (2000) . Cianetti, Enea, La valle Santa francescana : Rieti, il terminillo, fonte Colombo, la foresta, greccio, Poggio Bustone (1953) - Biblioteca na"
+		
 		},
 		{
 			"luogo": "colosseo",
-			"coordinates": [12.492270469665527, 41.89032989704626]
+			"coordinates": [12.492270469665527, 41.89032989704626],
+			"Nome":	"Colosseo",
+			"Abstract": "Immerso nel verde nella conca reatina il convento � un ottimo punto di partenza per escursioni e trekking e per i cicloturisti. Di rilievo, ai fini dell�attrattivit� turistica � anche la vicinanza del paese natio di Lucio Battisti che rappresenta",
+			"Descrizione":"Il santuario e convento di Poggio Bustone, dedicato a San Giacomo, si trova a Poggio Bustone ed � uno dei quattro santuari francescani che delimitano il Cammino di Francesco nella Valle Santa reatina, insieme al convento di Greccio, al santuario della",
+			"Tipologia":	"santuario",
+			"Tema/Tag":	"Spituralit�, luoghi di francesco; natura; miracoli;",
+			"Fonte":	"Ligori, Goffredo Antonio Santuario di Poggio Bustone : luogo del perdono (2000) . Cianetti, Enea, La valle Santa francescana : Rieti, il terminillo, fonte Colombo, la foresta, greccio, Poggio Bustone (1953) - Biblioteca na"
+		
 		},
 		{
 			"luogo": "lucas",
-			"coordinates": [12.480964958667755, 41.896515378576794]
+			"coordinates": [12.480964958667755, 41.896515378576794],
+			"Nome":	"Lucas srl",
+			"Abstract": "Immerso nel verde nella conca reatina il convento � un ottimo punto di partenza per escursioni e trekking e per i cicloturisti. Di rilievo, ai fini dell�attrattivit� turistica � anche la vicinanza del paese natio di Lucio Battisti che rappresenta",
+			"Descrizione":"Il santuario e convento di Poggio Bustone, dedicato a San Giacomo, si trova a Poggio Bustone ed � uno dei quattro santuari francescani che delimitano il Cammino di Francesco nella Valle Santa reatina, insieme al convento di Greccio, al santuario della",
+			"Tipologia":	"santuario",
+			"Tema/Tag":	"Spituralit�, luoghi di francesco; natura; miracoli;",
+			"Fonte":	"Ligori, Goffredo Antonio Santuario di Poggio Bustone : luogo del perdono (2000) . Cianetti, Enea, La valle Santa francescana : Rieti, il terminillo, fonte Colombo, la foresta, greccio, Poggio Bustone (1953) - Biblioteca na"
+		
 		}
 	]
 }
