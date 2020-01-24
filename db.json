@@ -79,6 +79,28 @@
 			"Video": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4","http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"]
 		},
 		{
+			"Nome":	"Bagno casa",
+			"Descrizione":"Il bagno",
+			"Abstract":"Dove si va al bagno",
+			"Tipologia":	"Santuario",
+			"Tema/Tag":	"Amatriciana, luoghi di francesco; natura; miracoli;",
+			"beacon": ["01234567-89AB-CDEF-0123-456789ABCDEF","10","7"],
+			"Parent": "Mariuccios",
+			"Immagini": ["https://cdn.pixabay.com/photo/2013/07/12/17/47/test-pattern-152459_960_720.png","https://i.ytimg.com/vi/ZQ_VjdWbIEQ/maxresdefault.jpg"],
+			"Video": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4","http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"]
+		},
+		{
+			"Nome":	"Salotto casa",
+			"Descrizione":"Il salotto",
+			"Abstract":"Dove si sta in salotto",
+			"Tipologia":	"Santuario",
+			"Tema/Tag":	"Amatriciana, luoghi di francesco; natura; miracoli;",
+			"beacon": ["01234567-89AB-CDEF-0123-456789ABCDEF","10","8"],
+			"Parent": "Mariuccios",
+			"Immagini": ["https://cdn.pixabay.com/photo/2013/07/12/17/47/test-pattern-152459_960_720.png","https://i.ytimg.com/vi/ZQ_VjdWbIEQ/maxresdefault.jpg"],
+			"Video": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4","http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"]
+		},
+		{
 			"luogo": "lucas",
 			"coordinates": [12.480964958667755, 41.896515378576794],
 			"Nome":	"Lucas srl",
