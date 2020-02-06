@@ -86,7 +86,8 @@
 			"Tema/Tag":	"Amatriciana, luoghi di francesco; natura; ",
 			"beacon": ["01234567-89AB-CDEF-0123-456789ABCDEF","10","7"],
 			"Parent": "Mariuccios",
-			"Immagini": ["https://cdn.pixabay.com/photo/2013/07/12/17/47/test-pattern-152459_960_720.png","https://i.ytimg.com/vi/ZQ_VjdWbIEQ/maxresdefault.jpg"]
+			"Immagini": ["https://cdn.pixabay.com/photo/2013/07/12/17/47/test-pattern-152459_960_720.png","https://i.ytimg.com/vi/ZQ_VjdWbIEQ/maxresdefault.jpg"],
+			"AR":["bagno_ar_1","bagno_ar_2","bagno_ar_3"]
 		},
 		{
 			"Nome":	"Salotto casa",
@@ -97,7 +98,8 @@
 			"beacon": ["01234567-89AB-CDEF-0123-456789ABCDEF","10","8"],
 			"Parent": "Mariuccios",
 			"Immagini": ["https://cdn.pixabay.com/photo/2013/07/12/17/47/test-pattern-152459_960_720.png","https://i.ytimg.com/vi/ZQ_VjdWbIEQ/maxresdefault.jpg"],
-			"Video": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4","http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"]
+			"Video": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4","http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"],
+			"AR":["salotto_ar_1","salotto_ar_2"]
 		},
 		{
 			"luogo": "lucas",
